@@ -64,6 +64,6 @@ c. Runninng the file in VM
 Question 3:  </br>
 a. Does the number of exits increase at a stable rate?Or are there
 more exits performed during certain VM operations? </br>
-After the CPUID function executing, the number of exits increasing.  
+After the CPUID function executing, the number of exits increasing.  </br>
 b. How many exits does a full VM boot entail? </br>
 There are approximately 24 millions exits. 
