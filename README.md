@@ -53,7 +53,7 @@ d. sudo apt install sublime-text  </br>
  </br>
 5.Edit the file cpuil.c and vmx.c  </br>
 a. Complete the cpuid.c file with if(eax == 0*4fffffff) </br>
-b. In vmx.c, built a counter to count the number of exits and the time the exits spent.  
+b. In vmx.c, built a counter to count the number of exits and the time the exits spent. </br> 
 c. Runninng the file in VM
 
 Question 3:  </br>
