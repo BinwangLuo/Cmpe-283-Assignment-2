@@ -52,6 +52,7 @@ d. sudo add-apt-repository "deb https://download.sublimetext.com/ apt/stable/"  
 d. sudo apt install sublime-text  </br>
  </br>
 5.Edit the file cpuil.c and vmx.c  </br>
+a. Complete the cpuid.c file with if(eax == 0*4fffffff)  
  </br>
 
 Question 3:  </br>
