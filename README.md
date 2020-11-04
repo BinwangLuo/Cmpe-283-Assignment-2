@@ -44,10 +44,10 @@ e. apt-get install virt-manager</br>
 f. virsh version </br>
 </br>
 4. In kernel, built the new modified modules.</br>
-rmmod kvm-intel</br>  
-rmmod kvm</br>
-insmod arch/x86/kvm/kvm.ko</br>  
-insmod arch/x86/kvm/kvm-intel.ko </br>
+a. rmmod kvm-intel</br>  
+b. rmmod kvm</br>
+c. insmod arch/x86/kvm/kvm.ko</br>  
+d. insmod arch/x86/kvm/kvm-intel.ko </br>
 </br>
 5. install subline text  </br>
 a. sudo apt install gcc  </br>
