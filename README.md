@@ -52,8 +52,9 @@ d. sudo add-apt-repository "deb https://download.sublimetext.com/ apt/stable/"  
 d. sudo apt install sublime-text  </br>
  </br>
 5.Edit the file cpuil.c and vmx.c  </br>
-a. Complete the cpuid.c file with if(eax == 0*4fffffff)  
- </br>
+a. Complete the cpuid.c file with if(eax == 0*4fffffff) </br>
+b. In vmx.c, built a counter to count the number of exits and the time the exits spent.  
+c. Runninng the file in VM
 
 Question 3:  </br>
 a. Does the number of exits increase at a stable rate?Or are there
