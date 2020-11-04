@@ -16,7 +16,9 @@ Binwang Luo(014632566)</br>
 a. Wrote the test program </br>
 b. Detemine where to place the measurement code </br>
 c. Create new CPID leaf 0x4fffffff </br>
-d. Updated documents to github
+d. Updated documents to github</br>
+
+Steps as below:  
 
 1. Download the source code: </br>
 git clone https://github.com/torvalds/linux.git   </br>
