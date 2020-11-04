@@ -2,8 +2,9 @@
 Assignment 2: Modifying instruction behavior in KVM </br>
 Group:</br>
 Yifan Liu (011410984)</br>
-Binwang Luo(014632566)  
-respons：</br>
+Binwang Luo(014632566) </br>
+
+Respons：</br>
 Yifan Liu:</br>
 a. Builing the Kernel to last version </br>
 b. got Nested VM  </br> 
