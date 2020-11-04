@@ -55,5 +55,10 @@ d. sudo apt install sublime-text  </br>
  </br>
 
 Question 3:  </br>
-Does the number of exits increase at a stable rate? </br>
-How many exits does a full VM boot entail? </br>
+a. Does the number of exits increase at a stable rate?Or are there
+more exits performed during certain VM operations? </br>
+After the CPUID function executing, the number of exits increasing.  
+b. How many exits does a full VM boot entail? </br>
+There are approximately 24 millions exits. 
+
+
